@@ -67,4 +67,7 @@
       <option name="ENABLED" value="true" />
     </filter>
   </component>
+  <component name="NodeLocalInterpreterManager">
+    <node-interpreter path="/usr/local/bin/node" version="4.2.1" last-modified="1455135162000" />
+  </component>
 </application>
